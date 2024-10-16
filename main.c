@@ -3,7 +3,7 @@
 int main() {
     printf("Hello, World!\n");
     int i;
-    for(i=0;i<10;i++){ //aggiungo un commento 
+    for(i=0;i<10;i++){ //aggiungo un commento a 
         printf("%d", i);
     };
 
